@@ -286,5 +286,3 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     main(args)
-
-# Prompt templates (unchanged from the original script)
